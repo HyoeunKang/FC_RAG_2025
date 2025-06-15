@@ -27,6 +27,9 @@
 - LLM 후처리 및 LangChain 연동
 
 
+## 📁 디렉토리 구조
+
+```text
 my_rag_project/
 ├── loaders/
 │   └── document_loader.py

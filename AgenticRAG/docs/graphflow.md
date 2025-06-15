@@ -1,3 +1,6 @@
+## 📊 전체 구조 다이어그램
+
+```mermaid
 graph TD
     A[📝 load_query] --> B[🔢 embed_query]
     B --> C[✅ check_validity]
